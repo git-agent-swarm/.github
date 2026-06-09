@@ -15,8 +15,8 @@
 |---|---|---|
 | **Cedar & Stone** | Small-business site + Firestore-backed lead capture | [demo](https://cedarstone-demo.web.app) |
 | **Kobey Dev Services** | Services hub + contact pipeline | [site](https://kobeydev.web.app) |
-| **gemini-research-agent** | Autonomous web-research agent that plans, reads sources & writes cited answers | [code](https://github.com/broussardkobey67-spec/gemini-research-agent) |
-| **leadgen-automator** | Finds local businesses with weak sites, scores them, drafts outreach | [code](https://github.com/broussardkobey67-spec/leadgen-automator) |
+| **gemini-research-agent** | Autonomous web-research agent that plans, reads sources & writes cited answers | [code](https://github.com/git-agent-swarm/gemini-research-agent) |
+| **leadgen-automator** | Finds local businesses with weak sites, scores them, drafts outreach | [code](https://github.com/git-agent-swarm/leadgen-automator) |
 
 **Stack:** Python · JavaScript · Firebase / Firestore · REST APIs · automation tooling
 
