@@ -18,6 +18,10 @@
 | **gemini-research-agent** | Autonomous web-research agent that plans, reads sources & writes cited answers | [code](https://github.com/git-agent-swarm/gemini-research-agent) |
 | **leadgen-automator** | Finds local businesses with weak sites, scores them, drafts outreach | [code](https://github.com/git-agent-swarm/leadgen-automator) |
 
-**Stack:** Python · JavaScript · Firebase / Firestore · REST APIs · automation tooling
+| **karmaclimb** | 🧗 Higher-or-Lower with real Reddit upvotes — daily climbs, streaks, leaderboards (Devvit game) | [code](https://github.com/git-agent-swarm/karmaclimb) |
+| **emberfall** | 🔥 Momentum action-platformer on a custom WebGL engine — whole community, same daily course (Devvit game) | [code](https://github.com/git-agent-swarm/emberfall) |
+| **emojigma** | 🧩 Emoji-riddle game — players create the puzzles, the community races to solve (Devvit game) | [code](https://github.com/git-agent-swarm/emojigma) |
+
+**Stack:** Python · TypeScript / JavaScript · React · Firebase / Firestore · Redis · REST APIs · automation tooling
 
 📫 **Let's build something:** [kobeydev.web.app](https://kobeydev.web.app)
