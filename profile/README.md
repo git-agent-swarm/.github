@@ -13,7 +13,7 @@
 - **Dashboards and reports** — API data into charts, HTML reports, Sheets, or lightweight apps.
 - **Writing and documentation** — SOPs, technical guides, client handoff docs, and product copy.
 
-## Public Proof — 10+ Inspectable Examples
+## Public Proof — 14+ Inspectable Examples
 
 | Project | What It Shows | Link |
 |---|---|---|
@@ -21,6 +21,8 @@
 | **Cedar & Stone** | Small-business website template with Firestore-backed lead capture | [live demo](https://cedarstone-demo.web.app) |
 | **VoltWorks Electrical** | Contractor website demo: service pages, emergency intake, quote estimator, and project proof | [live demo](https://kobeydev.web.app/demos/voltworks/) |
 | **VitalLoop** | Health/wellness app demo: dashboard, tasks, sleep chart, medication, appointments, and notes | [live demo](https://kobeydev.web.app/demos/vitalloop/) |
+| **Juniper Table** | Restaurant website demo: reservations, order-ahead cart, menu, private dining, hours, and reviews | [live demo](https://kobeydev.web.app/demos/juniper-table/) |
+| **LeasePilot** | Property-management app demo: maintenance tickets, SLA risk, vendor assignment, rent status, and inspections | [live demo](https://kobeydev.web.app/demos/leasepilot/) |
 | **gemini-research-agent** | Autonomous Gemini research agent that plans searches and writes cited answers | [code](https://github.com/git-agent-swarm/gemini-research-agent) |
 | **leadgen-automator** | Local-business prospecting workflow: score weak sites and draft specific outreach | [code](https://github.com/git-agent-swarm/leadgen-automator) |
 | **invoice-followup-automation** | Small-business admin workflow: invoice CSV in, reminder queue, email drafts, and HTML dashboard out | [code](https://github.com/git-agent-swarm/invoice-followup-automation) |
