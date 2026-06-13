@@ -21,6 +21,7 @@
 | **Cedar & Stone** | Small-business website template with Firestore-backed lead capture | [live demo](https://cedarstone-demo.web.app) |
 | **gemini-research-agent** | Autonomous Gemini research agent that plans searches and writes cited answers | [code](https://github.com/git-agent-swarm/gemini-research-agent) |
 | **leadgen-automator** | Local-business prospecting workflow: score weak sites and draft specific outreach | [code](https://github.com/git-agent-swarm/leadgen-automator) |
+| **invoice-followup-automation** | Small-business admin workflow: invoice CSV in, reminder queue, email drafts, and HTML dashboard out | [code](https://github.com/git-agent-swarm/invoice-followup-automation) |
 | **web-scraper-toolkit** | Config-driven scraping pipeline: YAML in, clean CSV/Excel out | [code](https://github.com/broussardkobey67-spec/web-scraper-toolkit) |
 | **api-report-automation** | API-to-CSV/chart/HTML report automation | [code](https://github.com/broussardkobey67-spec/api-report-automation) |
 | **karmaclimb** | Reddit Devvit game with live data, streaks, leaderboards, and platform constraints | [code](https://github.com/git-agent-swarm/karmaclimb) |
