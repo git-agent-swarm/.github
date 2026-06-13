@@ -1,27 +1,39 @@
 # Kobey Dev Services
 
-**AI automation & full-stack development.** I build AI agents, business automation, and fast, modern websites that capture leads — turning manual, repetitive work into clean, reliable software that saves small businesses real time.
+**AI automation, web development, and practical software delivery.** Kobey Dev Services builds the kind of work small businesses actually pay for: fast websites, lead-capture systems, workflow automation, web scraping/data cleanup, dashboards, AI agents, and clear technical writing.
 
-🔗 **[kobeydev.web.app](https://kobeydev.web.app)** &nbsp;·&nbsp; 📍 Wichita Falls, TX &nbsp;·&nbsp; open to freelance & contract work
+🔗 **[kobeydev.web.app](https://kobeydev.web.app)** · 📞 **(337) 495-6990** · ✉️ **kobey@buythebest.net** · 📍 Wichita Falls, TX · remote-friendly
 
-### What I do
-- **Websites** — fast, responsive, SEO-ready sites with working lead capture
-- **Lead capture & data plumbing** — forms → database → notifications, locked down, no leaks
-- **Workflow automation** — connect the tools a business already uses so the busywork runs itself
-- **AI agents** — research, support, and ops agents that do real work
+## What We Build
 
-### Selected work
-| Project | What it is | Live |
+- **Business websites** — responsive, SEO-ready pages with working forms and lead capture.
+- **AI automation** — assistants, research agents, triage flows, content systems, and internal tools.
+- **Workflow automation** — APIs, Google Sheets/Airtable/Notion flows, scheduled jobs, and reporting.
+- **Scraping and cleanup** — clean CSV/Excel outputs from messy websites, PDFs, or APIs.
+- **Dashboards and reports** — API data into charts, HTML reports, Sheets, or lightweight apps.
+- **Writing and documentation** — SOPs, technical guides, client handoff docs, and product copy.
+
+## Public Proof
+
+| Project | What It Shows | Link |
 |---|---|---|
-| **Cedar & Stone** | Small-business site + Firestore-backed lead capture | [demo](https://cedarstone-demo.web.app) |
-| **Kobey Dev Services** | Services hub + contact pipeline | [site](https://kobeydev.web.app) |
-| **gemini-research-agent** | Autonomous web-research agent that plans, reads sources & writes cited answers | [code](https://github.com/git-agent-swarm/gemini-research-agent) |
-| **leadgen-automator** | Finds local businesses with weak sites, scores them, drafts outreach | [code](https://github.com/git-agent-swarm/leadgen-automator) |
+| **Kobey Dev Services** | Business landing page, service positioning, contact pipeline, public proof links | [live site](https://kobeydev.web.app) |
+| **Cedar & Stone** | Small-business website template with Firestore-backed lead capture | [live demo](https://cedarstone-demo.web.app) |
+| **gemini-research-agent** | Autonomous Gemini research agent that plans searches and writes cited answers | [code](https://github.com/git-agent-swarm/gemini-research-agent) |
+| **leadgen-automator** | Local-business prospecting workflow: score weak sites and draft specific outreach | [code](https://github.com/git-agent-swarm/leadgen-automator) |
+| **web-scraper-toolkit** | Config-driven scraping pipeline: YAML in, clean CSV/Excel out | [code](https://github.com/broussardkobey67-spec/web-scraper-toolkit) |
+| **api-report-automation** | API-to-CSV/chart/HTML report automation | [code](https://github.com/broussardkobey67-spec/api-report-automation) |
+| **karmaclimb** | Reddit Devvit game with live data, streaks, leaderboards, and platform constraints | [code](https://github.com/git-agent-swarm/karmaclimb) |
+| **emberfall** | Custom WebGL action-platformer for Reddit Devvit | [code](https://github.com/git-agent-swarm/emberfall) |
+| **emojigma** | Community emoji-riddle game with user-generated puzzles | [code](https://github.com/git-agent-swarm/emojigma) |
 
-| **karmaclimb** | 🧗 Higher-or-Lower with real Reddit upvotes — daily climbs, streaks, leaderboards (Devvit game) | [code](https://github.com/git-agent-swarm/karmaclimb) |
-| **emberfall** | 🔥 Momentum action-platformer on a custom WebGL engine — whole community, same daily course (Devvit game) | [code](https://github.com/git-agent-swarm/emberfall) |
-| **emojigma** | 🧩 Emoji-riddle game — players create the puzzles, the community races to solve (Devvit game) | [code](https://github.com/git-agent-swarm/emojigma) |
+## Credibility Signals
 
-**Stack:** Python · TypeScript / JavaScript · React · Firebase / Firestore · Redis · REST APIs · automation tooling
+- Google Developer Program badges: Gemini Enterprise Agent Ready, Firebase Studio Developer Community, Google Maps Platform Innovators, Google Cloud & NVIDIA community.
+- Public Google profile: **[me.developers.google.com/u/116492041557080639666](https://me.developers.google.com/u/116492041557080639666)**.
+- Firebase-hosted demos with documented GitHub/GitLab repos.
+- Open to freelance, contract, and fixed-scope delivery work.
 
-📫 **Let's build something:** [kobeydev.web.app](https://kobeydev.web.app)
+**Stack:** Python · JavaScript / TypeScript · React · Firebase / Firestore · Redis · Playwright · REST APIs · pandas · automation tooling
+
+📫 **Start here:** [kobeydev.web.app](https://kobeydev.web.app)
