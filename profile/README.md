@@ -13,7 +13,7 @@
 - **Dashboards and reports** — API data into charts, HTML reports, Sheets, or lightweight apps.
 - **Writing and documentation** — SOPs, technical guides, client handoff docs, and product copy.
 
-## Public Proof — 14+ Inspectable Examples
+## Public Proof — 15+ Inspectable Examples
 
 | Project | What It Shows | Link |
 |---|---|---|
@@ -26,6 +26,7 @@
 | **gemini-research-agent** | Autonomous Gemini research agent that plans searches and writes cited answers | [code](https://github.com/git-agent-swarm/gemini-research-agent) |
 | **leadgen-automator** | Local-business prospecting workflow: score weak sites and draft specific outreach | [code](https://github.com/git-agent-swarm/leadgen-automator) |
 | **invoice-followup-automation** | Small-business admin workflow: invoice CSV in, reminder queue, email drafts, and HTML dashboard out | [code](https://github.com/git-agent-swarm/invoice-followup-automation) |
+| **nvidia-nim-agent-demo** | NVIDIA NIM API proof: document analysis, code review, model selection, and offline tests | [code](https://github.com/git-agent-swarm/nvidia-nim-agent-demo) |
 | **web-scraper-toolkit** | Config-driven scraping pipeline: YAML in, clean CSV/Excel out | [code](https://github.com/broussardkobey67-spec/web-scraper-toolkit) |
 | **api-report-automation** | API-to-CSV/chart/HTML report automation | [code](https://github.com/broussardkobey67-spec/api-report-automation) |
 | **options-screener** | Options-chain screening and Plotly report export | [code](https://github.com/broussardkobey67-spec/options-screener) |
