@@ -13,7 +13,7 @@
 - **Dashboards and reports** — API data into charts, HTML reports, Sheets, or lightweight apps.
 - **Writing and documentation** — SOPs, technical guides, client handoff docs, and product copy.
 
-## Public Proof — 17+ Inspectable Examples
+## Public Proof — 18+ Inspectable Examples
 
 | Project | What It Shows | Link |
 |---|---|---|
@@ -29,6 +29,7 @@
 | **nvidia-nim-agent-demo** | NVIDIA NIM API proof: document analysis, code review, model selection, and offline tests | [code](https://github.com/git-agent-swarm/nvidia-nim-agent-demo) |
 | **auth0-jwt-api-demo** | Auth0/OAuth API-security proof: RS256 JWT verification, JWKS, scope checks, and Node tests | [code](https://github.com/git-agent-swarm/auth0-jwt-api-demo) |
 | **azure-functions-lead-router-demo** | Azure/serverless proof: website lead validation, queue routing, urgency scoring, and tests | [code](https://github.com/git-agent-swarm/azure-functions-lead-router-demo) |
+| **adobe-oauth-server-to-server-demo** | Adobe API integration proof: OAuth client credentials flow, token caching, scope handling, redacted failures, and Node tests | [code](https://github.com/git-agent-swarm/adobe-oauth-server-to-server-demo) |
 | **web-scraper-toolkit** | Config-driven scraping pipeline: YAML in, clean CSV/Excel out | [code](https://github.com/broussardkobey67-spec/web-scraper-toolkit) |
 | **api-report-automation** | API-to-CSV/chart/HTML report automation | [code](https://github.com/broussardkobey67-spec/api-report-automation) |
 | **options-screener** | Options-chain screening and Plotly report export | [code](https://github.com/broussardkobey67-spec/options-screener) |
