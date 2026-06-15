@@ -2,7 +2,7 @@
 
 **AI automation, web development, and practical software delivery.** Kobey Dev Services builds the kind of work small businesses actually pay for: fast websites, lead-capture systems, workflow automation, web scraping/data cleanup, dashboards, AI agents, and clear technical writing.
 
-🔗 **[kobeydev.web.app](https://kobeydev.web.app)** · 📞 **(337) 495-6990** · ✉️ **kobey@buythebest.net** · 📍 Wichita Falls, TX · remote-friendly
+🔗 **[kobeydev.web.app](https://kobeydev.web.app)** · 📞 **(337) 495-6990** · ✉️ **kobey@kobeydev.com** · 📍 Wichita Falls, TX · remote-friendly
 
 ## What We Build
 
