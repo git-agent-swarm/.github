@@ -2,7 +2,7 @@
 
 **AI automation, web development, and practical software delivery.** Kobey Dev Services builds the kind of work small businesses actually pay for: fast websites, lead-capture systems, workflow automation, web scraping/data cleanup, dashboards, AI agents, and clear technical writing.
 
-🔗 **[kobeydev.web.app](https://kobeydev.web.app)** · 📞 **(337) 495-6990** · ✉️ **kobey@kobeydev.com** · 📍 Wichita Falls, TX · remote-friendly
+🔗 **[kobeydev.com](https://kobeydev.com)** · 📞 **(337) 495-6990** · ✉️ **kobey@kobeydev.com** · 📍 Wichita Falls, TX · remote-friendly
 
 ## What We Build
 
@@ -17,12 +17,12 @@
 
 | Project | What It Shows | Link |
 |---|---|---|
-| **Kobey Dev Services** | Business landing page, service positioning, contact pipeline, public proof links | [live site](https://kobeydev.web.app) · [code](https://github.com/git-agent-swarm/kobey-dev-services) |
+| **Kobey Dev Services** | Business landing page, service positioning, contact pipeline, public proof links | [live site](https://kobeydev.com) · [code](https://github.com/git-agent-swarm/kobey-dev-services) |
 | **Cedar & Stone** | Small-business website template with Firestore-backed lead capture | [live demo](https://cedarstone-demo.web.app) |
-| **VoltWorks Electrical** | Contractor website demo: service pages, emergency intake, quote estimator, and project proof | [live demo](https://kobeydev.web.app/demos/voltworks/) |
-| **VitalLoop** | Health/wellness app demo: dashboard, tasks, sleep chart, medication, appointments, and notes | [live demo](https://kobeydev.web.app/demos/vitalloop/) |
-| **Juniper Table** | Restaurant website demo: reservations, order-ahead cart, menu, private dining, hours, and reviews | [live demo](https://kobeydev.web.app/demos/juniper-table/) |
-| **LeasePilot** | Property-management app demo: maintenance tickets, SLA risk, vendor assignment, rent status, and inspections | [live demo](https://kobeydev.web.app/demos/leasepilot/) |
+| **VoltWorks Electrical** | Contractor website demo: service pages, emergency intake, quote estimator, and project proof | [live demo](https://kobeydev.com/demos/voltworks/) |
+| **VitalLoop** | Health/wellness app demo: dashboard, tasks, sleep chart, medication, appointments, and notes | [live demo](https://kobeydev.com/demos/vitalloop/) |
+| **Juniper Table** | Restaurant website demo: reservations, order-ahead cart, menu, private dining, hours, and reviews | [live demo](https://kobeydev.com/demos/juniper-table/) |
+| **LeasePilot** | Property-management app demo: maintenance tickets, SLA risk, vendor assignment, rent status, and inspections | [live demo](https://kobeydev.com/demos/leasepilot/) |
 | **gemini-research-agent** | Autonomous Gemini research agent that plans searches and writes cited answers | [code](https://github.com/git-agent-swarm/gemini-research-agent) |
 | **leadgen-automator** | Local-business prospecting workflow: score weak sites and draft specific outreach | [code](https://github.com/git-agent-swarm/leadgen-automator) |
 | **invoice-followup-automation** | Small-business admin workflow: invoice CSV in, reminder queue, email drafts, and HTML dashboard out | [code](https://github.com/git-agent-swarm/invoice-followup-automation) |
@@ -47,4 +47,4 @@
 
 **Stack:** Python · JavaScript / TypeScript · React · Firebase / Firestore · Redis · Playwright · REST APIs · pandas · automation tooling
 
-📫 **Start here:** [kobeydev.web.app](https://kobeydev.web.app)
+📫 **Start here:** [kobeydev.com](https://kobeydev.com)
